@@ -266,8 +266,8 @@ else:
 
 with bot:
     try:
-        bot(JoinChannelRequest("@CeteUserBot"))
-        bot(JoinChannelRequest("@CeteSupport"))
+        bot(JoinChannelRequest("@murettebatsohbet"))
+        bot(JoinChannelRequest("@murettebatsohbet"))
 
         moduller = CMD_HELP
         me = bot.get_me()
